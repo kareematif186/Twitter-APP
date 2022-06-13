@@ -25,12 +25,15 @@ This project is an implementation of a Design i found on [dribble.com](https://d
 
 </tr>
 <tr>
-    <td><img align="left" src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/screenshot_3.png" width="200" height="400"/></td>
+    <td><img align="left" src="  ![2](https://user-images.githubusercontent.com/88941146/173451178-3d7659e8-2137-47ec-bd4b-84f2c84ba6d5.jpeg)   " width="200" height="400"/></td>
+   
     <td><img src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/screenshot_4.png" width="200" height="400"/></td> 
 </tr>
 <tr>
-    <td><img align="left" src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/screenshot_5.png" width="200" height="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/screenshot_6.png" width="200" height="400"/></td> 
+    <td><img align="left" src="![2](https://user-images.githubusercontent.com/88941146/173451206-0dcb1454-9475-48c0-adb5-e732189b4418.jpeg)
+" width="200" height="400"/></td>
+    <td><img src="![3](https://user-images.githubusercontent.com/88941146/173451244-f604951c-11cc-4dd5-88a0-b00a5ebe61d4.jpeg)
+" width="200" height="400"/></td> 
 </tr>
 
 ## Getting Started
