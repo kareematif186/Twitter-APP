@@ -16,25 +16,24 @@ This project is an implementation of a Design i found on [dribble.com](https://d
 
 ## Art
 
-<img src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/Familicious.webp" width="100%"  height="50%"/>
-<br>
-   
-<tr>
-    ![00](https://user-images.githubusercontent.com/88941146/173450988-49b7867c-0bfe-4eb3-b7d7-eeebbd269b95.jpeg)
-    ![1](https://user-images.githubusercontent.com/88941146/173451040-77840691-c1d6-4611-9c00-5f06c7b434eb.jpeg)
 
-</tr>
-<tr>
-    <td><img align="left" src="  ![2](https://user-images.githubusercontent.com/88941146/173451178-3d7659e8-2137-47ec-bd4b-84f2c84ba6d5.jpeg)   " width="200" height="400"/></td>
-   
-    <td><img src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/screenshot_4.png" width="200" height="400"/></td> 
-</tr>
-<tr>
-    <td><img align="left" src="![2](https://user-images.githubusercontent.com/88941146/173451206-0dcb1454-9475-48c0-adb5-e732189b4418.jpeg)
-" width="200" height="400"/></td>
-    <td><img src="![3](https://user-images.githubusercontent.com/88941146/173451244-f604951c-11cc-4dd5-88a0-b00a5ebe61d4.jpeg)
-" width="200" height="400"/></td> 
-</tr>
+   ![00](https://user-images.githubusercontent.com/88941146/173451342-9e91cbe3-0374-4370-89af-bfaebc7551bf.jpeg)
+![1](https://user-images.githubusercontent.com/88941146/173451361-cfa876b0-e890-4d3e-9848-cc8f569bff0a.jpeg)
+![2](https://user-images.githubusercontent.com/88941146/173451372-bf6a5a74-f809-432a-a9b8-fb43fb1d30bd.jpeg)
+
+![3](https://user-images.githubusercontent.com/88941146/173451379-84a3b4fb-aedd-4f88-888b-959a58d72d08.jpeg)
+
+
+![4](https://user-images.githubusercontent.com/88941146/173451453-a8cb4f60-1c23-4d69-b4f7-aea35fe7ec55.jpeg)
+
+![5](https://user-images.githubusercontent.com/88941146/173451459-365e9b57-3371-4a23-b81e-da57591b95ca.jpeg)
+
+
+![7](https://user-images.githubusercontent.com/88941146/173451466-d61f0188-100c-4d7a-9c50-5d7abd8f58ed.jpeg)
+
+![8](https://user-images.githubusercontent.com/88941146/173451476-9a5ece1e-ecc5-4c62-af6e-3726c4b3d713.jpeg)
+![9](https://user-images.githubusercontent.com/88941146/173451483-eb436261-db22-447b-8227-6df7a47aa4a8.jpeg)
+
 
 ## Getting Started
 
