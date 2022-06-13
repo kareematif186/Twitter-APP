@@ -16,9 +16,13 @@ This project is an implementation of a Design i found on [dribble.com](https://d
 
 ## Art
 
+<img src="https://raw.githubusercontent.com/RegNex/Familicious-App/main/screenshots/Familicious.webp" width="100%"  height="50%"/>
+<br>
+ 
+![00](https://user-images.githubusercontent.com/88941146/173451342-9e91cbe3-0374-4370-89af-bfaebc7551bf.jpeg)
 
-   ![00](https://user-images.githubusercontent.com/88941146/173451342-9e91cbe3-0374-4370-89af-bfaebc7551bf.jpeg)
 ![1](https://user-images.githubusercontent.com/88941146/173451361-cfa876b0-e890-4d3e-9848-cc8f569bff0a.jpeg)
+
 ![2](https://user-images.githubusercontent.com/88941146/173451372-bf6a5a74-f809-432a-a9b8-fb43fb1d30bd.jpeg)
 
 ![3](https://user-images.githubusercontent.com/88941146/173451379-84a3b4fb-aedd-4f88-888b-959a58d72d08.jpeg)
@@ -32,6 +36,7 @@ This project is an implementation of a Design i found on [dribble.com](https://d
 ![7](https://user-images.githubusercontent.com/88941146/173451466-d61f0188-100c-4d7a-9c50-5d7abd8f58ed.jpeg)
 
 ![8](https://user-images.githubusercontent.com/88941146/173451476-9a5ece1e-ecc5-4c62-af6e-3726c4b3d713.jpeg)
+
 ![9](https://user-images.githubusercontent.com/88941146/173451483-eb436261-db22-447b-8227-6df7a47aa4a8.jpeg)
 
 
