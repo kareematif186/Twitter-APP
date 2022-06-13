@@ -1,4 +1,4 @@
-# Famlicious App
+# Twitter App
 
 A social media app built with [Flutter](https://flutter.dev) and [Firebase](https://firebase.google.com)
 
